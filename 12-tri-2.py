@@ -7,6 +7,7 @@ scr = turtle.Screen()
 scr.bgcolor("black")
 
 turtle.color("blue")
+
 turtle.showturtle()
 turtle.shape("circle")
 turtle.fillcolor("blue")
